@@ -1,9 +1,9 @@
 # ExtractionShooter
 **Road to Vorograd**
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
-[![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)]()
+[![License](https://img.shields.io/badge/license-[LICENSE]-blue.svg)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-[STATUS]-brightgreen.svg)]()
+[![Version](https://img.shields.io/badge/version-[VERSION]-orange.svg)]()
 
 ## 📖 Description
 
@@ -172,7 +172,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## 📜 License
 
-This project is licensed under the [LICENSE TYPE] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [LICENSE TYPE, e.g., MIT License, GPL-3.0, Apache-2.0] - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Credits
 
